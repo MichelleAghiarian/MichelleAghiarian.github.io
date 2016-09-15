@@ -1,0 +1,36 @@
+/*Layout*/
+.panel {
+  min-height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*Navigation*/
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+/*Panels IDs*/
+#intro {
+  padding-top: 15%;
+  
+}
+
+#portfolio {
+  padding-top: 15%;
+
+}
+
+#contact {
+  padding-top: 15%;
+}
+
+#contact ul {
+  list-style-type: none;
+}
+
+/*Misc*/
+#down-arrow {
+  padding-top:25%;
+}
